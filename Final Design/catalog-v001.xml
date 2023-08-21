@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://www.semanticweb.org/sweet_subset" uri="sweet_subset.owl"/>
+    <uri id="Imports Wizard Entry" name="http://imash.leeds.ac.uk/ontologies/atu/SoilPhysics.owl" uri="Soil-Property-Process.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1683048019437" name="duplicate:http://www.rbc.com/digitalTwin/2023/flamel-ontology" uri="Flamel_Ontology_RBCTeamO.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1683048019437" name="duplicate:http://www.rbc.com/digitalTwin/2023/flamel-ontology" uri="Flamel_Ontology_RBCTeamO_05022023.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1683048019437" name="http://www.semanticweb.org/sweet_subset" uri="sweet_subset.owl"/>
+    </group>
+</catalog>
